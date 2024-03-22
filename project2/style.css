@@ -1,0 +1,37 @@
+Body {
+    background-color:slategray;
+    border: 1px solid white;
+
+    }
+.first_h{
+    color: aquamarine;
+    background-color: black;
+    font-size: 30;
+}
+
+.second_h{
+    color:chartreuse;
+    font-size: 30;
+}
+
+.third_h{
+    color:chartreuse;
+    font-size: 30;
+}
+
+.fourth_h{
+    color:chartreuse;
+    font-size: 30;
+    
+}
+
+.fifth_h{
+    color:chartreuse;
+    font-size: 30;
+    
+    
+}
+
+p{
+    font-size:20;
+}
